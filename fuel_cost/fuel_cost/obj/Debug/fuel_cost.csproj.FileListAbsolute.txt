@@ -1,0 +1,10 @@
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\bin\Debug\fuel_cost.exe.config
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\bin\Debug\fuel_cost.exe
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\bin\Debug\fuel_cost.pdb
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.csprojResolveAssemblyReference.cache
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.Form1.resources
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.Properties.Resources.resources
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.csproj.GenerateResource.Cache
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.csproj.CoreCompileInputs.cache
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.exe
+C:\Users\kisam\OneDrive\Dokumenty\Projekt c#\fuel_cost\fuel_cost\obj\Debug\fuel_cost.pdb
